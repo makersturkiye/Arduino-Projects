@@ -4,20 +4,18 @@
 
 Proje geliştirmek için 2 farklı geliştirme ortamı kullanabilirsiniz. Bunlardan biri **mBlock** olup blok tabanlı kodlama imkanı sunarken, bir diğeri **Arduino IDE** olup C türevi programlama diliyle kodlama yaparak proje geliştirebilirsiniz.
 
-```mermaid
-graph LR
-A[Kod] --> B((mBlock))
-A --> C(Arduino IDE)
-B --> D{Arduino}
-C --> D
-```
+
 
 # Dosyalar ve uzantılar
 
 **.ino** : Arduino taslak dosyasıdır.
+
 **.sb2** : mBlock taslak dosyasıdır.
+
 **.png** : Fritzingden hazırlanmış devre görselleridir.
+
 **.c** ve **.h**: Kütüphane veya yazılım dosyalarıdır.
+
 
 # Projelerin Kullanımı
 
